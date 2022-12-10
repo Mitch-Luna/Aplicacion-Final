@@ -34,7 +34,7 @@ const styles = StyleSheet.create({
   text1:{
     marginHorizontal:12,
     fontFamily:"Kanit",
-    marginTop:50,
+    marginTop:20,
     fontSize:45,
     color:"black",
 
